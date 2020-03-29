@@ -1,2 +1,2 @@
-language: python3-debian
+language: python37-debian
 fprocess: python3 index.py
